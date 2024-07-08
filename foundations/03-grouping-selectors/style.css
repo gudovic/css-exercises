@@ -1,0 +1,19 @@
+.buttons {
+    font-size: 50px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.buttonleft {
+    color: white;
+    background-color: black;
+    font-weight: bold;
+}
+
+.buttonright {
+    background-color: yellow;
+}
+
+/*
+
+* **Both elements**: a font size of 28px and a list of fonts containing `Helvetica` and `Times New Roman`, with `sans-serif` as a fallback 
+/*
